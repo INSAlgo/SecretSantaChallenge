@@ -12,7 +12,7 @@ Le but ? J'ai écrit un [magnifique pdf](SecretSantaChallenge_FR.pdf) qui expliq
 
 Comme c'est la première fois pour nous aussi (lll￢ω￢), y'a pas mal de petits détails qui ne sont pas encore bien clairs.
 
-Si vous avez des questions, n'hésitez pas à venir nous parler sur le discord ou en vrai.
+Si vous avez des questions, n'hésitez pas à venir nous parler sur [discord](http://discord.insalgo.fr/) ou en vrai.
 
 Sur ce repo, vous trouverez une archive contenant tous les fichiers nécessaires au challenge, ainsi que ces même fichiers directement accessibles sur github.
 
