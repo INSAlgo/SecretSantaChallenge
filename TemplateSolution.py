@@ -37,7 +37,7 @@ def inputReading(path: str):
     # Put all lines into a array
     fileLines = file.readlines()
     for i in range(len(fileLines)):
-        fileLines[i].strip('\n')
+        fileLines[i] = fileLines[i].strip('\n')
 
     # TODO 1: Write the parsing of the input file (hint: you can try to use a adjacency list)
 
